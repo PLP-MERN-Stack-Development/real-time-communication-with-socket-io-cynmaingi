@@ -1,0 +1,26 @@
+{
+  "name": "real-time-communication-with-socket-io-cynmaingi",
+  "version": "1.0.0",
+  "description": "This assignment focuses on building a real-time chat application using Socket.io, implementing bidirectional communication between clients and server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/real-time-communication-with-socket-io-cynmaingi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/real-time-communication-with-socket-io-cynmaingi/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/real-time-communication-with-socket-io-cynmaingi#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
